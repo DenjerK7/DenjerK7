@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenjerK7
-- 👀 I’m interested in Swift,iOS Develop
+- 👀 I’m interested in Swift,iOS Developer
 - 🌱 I’m currently learning ...
 
 <!---
